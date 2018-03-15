@@ -1,0 +1,2 @@
+Hello git!
+I'm a new developer.
